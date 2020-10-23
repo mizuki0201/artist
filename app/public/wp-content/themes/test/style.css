@@ -1,0 +1,343 @@
+@charset "UTF-8";
+/*
+Theme Name: TESTSITE
+Author: MIZUKI IIO
+Description: テストのサイト
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/locenses/gpl-2.0.html
+*/
+
+header {
+  height: 100px;
+  width: 100vw;
+  /* display: flex;
+  justify-content: space-between; */
+}
+
+.background_image {
+  background-image: url("images/artist.jpg");
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  /* top: 0; */
+  z-index: -1;
+}
+
+.logo {
+  background-color: white;
+  height: 100px;
+  width: 200px;
+  position: fixed;
+  top: 50px;
+  left: 20px;
+  z-index: 1;
+}
+
+.menu {
+  background-color: white;
+  height: 80px;
+  width: 80px;
+  position: fixed;
+  top: 50px;
+  right: 20px;
+  box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.16);
+  border-radius: 50px;
+  z-index: 1;
+}
+
+.bar {
+  width: 2rem;
+  height: 2px;
+  background-color: #777;
+  margin: 18px auto;
+  transition: all 0.3s ease-in-out;
+}
+
+.menu_display {
+  height: 100vh;
+  width: 100vw;
+  background-color: #FFCDBB;
+  opacity: 95%;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+}
+
+.menu_lists {
+  height: 80%;
+  width: 70%;
+  margin: auto 0;
+}
+
+.menu_logo {
+  height: 80px;
+  width: 300px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.menu_list {
+  height: 50px;
+  width: 200px;
+  font-size: 25px;
+  margin: 45px auto;
+  text-align: center;
+  color: #fff;
+  opacity: 100%;
+  font-weight: 700;
+  text-shadow: black 1px 1px 0px, black -1px 1px 0px, black 1px -1px 0px, black -1px -1px 0px;
+}
+
+/* モーダルの実装② */
+.modalArea {
+  display: none;
+  position: fixed;
+  z-index: 10; /*サイトによってここの数値は調整 */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.modalBg {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(30,30,30,0.9);
+}
+
+.modalWrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  width: 70%;
+  max-width: 500px;
+  padding: 10px 30px;
+  background-color: #fff;
+}
+
+.closeModal {
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  cursor: pointer;
+}
+/* モーダルの実装②　おわり */
+.instagram {
+  height: 50px;
+  width: 50px;
+  color: inherit;
+  position: absolute;
+  top: 400px;
+  left: 20px;
+  text-decoration: none;
+  font-family: "Font Awesome 5 Brands";
+  font-size: 2em;
+  background-color: transparent;
+  padding-left: 4px;
+}
+
+.instagram::before {
+  font-size: 2em;
+}
+
+.youtube {
+  height: 50px;
+  width: 50px;
+  color: inherit;
+  position: absolute;
+  top: 490px;
+  left: 20px;
+  text-decoration: none;
+  font-family: "Font Awesome 5 Brands";
+  font-size: 2em;
+  background-color: transparent;
+}
+
+.youtube::before {
+  font-size: 1.8em;
+}
+
+.background_image {
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  opacity: 80%;
+  z-index: -1;
+}
+
+.scroll_animation {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 60px;
+}
+
+.scroll_text {
+  font-size: 0.8rem;
+  letter-spacing: 0.3rem;
+  transform: rotate(-90deg) translateX(50%);
+}
+
+.scroll_circle {
+  width: 3px;
+  height: 3px;
+  background-color: #333;
+  border-radius: 50%;
+  margin: 0 auto;
+  animation: op0 2s infinite;
+}
+
+.scroll_border {
+  width: 1px;
+  height: 100px;
+  background-color: #333;
+  margin: 0 auto;
+  transform-origin: center top;
+  animation: stretcher 2s infinite;
+}
+
+.radias {
+  border-radius: 40px;
+}
+
+.first_box {
+  background-color: #FFCDBB;
+  width: 100vw;
+  height: 600px;
+  margin-top: 500px;
+}
+
+.box_text {
+  padding-top: 30px;
+  font-weight: 700 !important;
+  text-align: center;
+  color: #fff;
+  font-size: 1.8rem;
+  letter-spacing: 0.4em;
+  text-shadow: black 1px 1px 0px, black -1px 1px 0px, black 1px -1px 0px, black -1px -1px 0px;
+}
+
+/* .posts {
+  overflow: scroll;
+  height: 470px;
+  width: 90%;
+  margin: 20px auto 0;
+  background-color: #FF9999;
+} */
+
+.posts {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.post {
+  margin: 10px 50px 20px;
+}
+
+.post_time {
+  color: gray;
+  font-size: 14px;
+}
+
+.post_title {
+  height: 35px;
+  /* width: 90px; */
+  letter-spacing: 2px;
+  margin: 10px 0;
+}
+
+.post_title_font {
+  background-color: white;
+  text-align: center;
+  padding: 5px 30px;
+  border-radius: 10px;
+}
+
+.post_body {
+  margin-bottom: 50px;
+}
+
+.post_more {
+  margin-left: 50px;
+}
+
+.second_box {
+  background-color: #FFEDA3;
+  width: 100vw;
+  height: 520px;
+}
+
+.horizontal-list {
+  overflow-x: auto;
+  white-space: nowrap;
+  margin-top: 10px;
+  padding: 0 400px;
+}
+
+.item {
+  /* 横スクロール用 */
+  display: inline-block;
+  width: 600px;
+
+  /* 見た目調整 */
+  height: 400px;
+  margin: 20px;
+  font-size: 48px;
+}
+
+.second_box iframe {
+  border-radius: 20px;
+  margin: auto;
+  display: block;
+  height: 350px;
+  width: 600px;
+}
+
+.third_box {
+  background-color: white;
+  width: 100vw;
+  height: 600px;
+  box-sizing: border-box;
+}
+
+.sns {
+  display: flex;
+}
+
+.insta {
+
+}
+
+
+.instagram-media {
+  height: 380px;
+  width: 450px !important;
+  margin: 50px 30px !important;
+}
+
+.twitter {
+
+}
+
+.twitter-timeline {
+  /* height: 380px !important; */
+  max-height: 380px !important;
+  overflow: scroll;
+  margin: 50px 30px !important;
+}
+
+.fb-post {
+  height: 380px;
+  width: 450px !important;
+  margin: 50px 30px !important;
+  padding-left: 30px !important;
+}
+
+.display_none {
+  display: none;
+}

@@ -1,0 +1,151 @@
+[22-Oct-2020 09:56:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:6
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:56:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:6
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:6
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:6
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:6
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:6
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:6
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:6
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:57:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_url() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:7
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 7
+[22-Oct-2020 09:57:53 UTC] PHP Warning:  Use of undefined constant reset - assumed 'reset' (this will throw an Error in a future version of PHP) in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:57:53 UTC] PHP Stack trace:
+[22-Oct-2020 09:57:53 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/index.php:0
+[22-Oct-2020 09:57:53 UTC] PHP   2. require() /Users/tech-camp/Local Sites/testsite/app/public/index.php:17
+[22-Oct-2020 09:57:53 UTC] PHP   3. require_once() /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php:19
+[22-Oct-2020 09:57:53 UTC] PHP   4. include() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php:106
+[22-Oct-2020 09:57:53 UTC] PHP Warning:  Use of undefined constant css - assumed 'css' (this will throw an Error in a future version of PHP) in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:57:53 UTC] PHP Stack trace:
+[22-Oct-2020 09:57:53 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/index.php:0
+[22-Oct-2020 09:57:53 UTC] PHP   2. require() /Users/tech-camp/Local Sites/testsite/app/public/index.php:17
+[22-Oct-2020 09:57:53 UTC] PHP   3. require_once() /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php:19
+[22-Oct-2020 09:57:53 UTC] PHP   4. include() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php:106
+[22-Oct-2020 09:57:53 UTC] PHP Warning:  Use of undefined constant reset - assumed 'reset' (this will throw an Error in a future version of PHP) in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:57:53 UTC] PHP Stack trace:
+[22-Oct-2020 09:57:53 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/index.php:0
+[22-Oct-2020 09:57:53 UTC] PHP   2. require() /Users/tech-camp/Local Sites/testsite/app/public/index.php:17
+[22-Oct-2020 09:57:53 UTC] PHP   3. require_once() /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php:19
+[22-Oct-2020 09:57:53 UTC] PHP   4. include() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php:106
+[22-Oct-2020 09:57:53 UTC] PHP Warning:  Use of undefined constant css - assumed 'css' (this will throw an Error in a future version of PHP) in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 6
+[22-Oct-2020 09:57:53 UTC] PHP Stack trace:
+[22-Oct-2020 09:57:53 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/index.php:0
+[22-Oct-2020 09:57:53 UTC] PHP   2. require() /Users/tech-camp/Local Sites/testsite/app/public/index.php:17
+[22-Oct-2020 09:57:53 UTC] PHP   3. require_once() /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php:19
+[22-Oct-2020 09:57:53 UTC] PHP   4. include() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php:106
+[22-Oct-2020 23:09:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/functions.php on line 28
+[22-Oct-2020 23:26:41 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/functions.php on line 27
+[23-Oct-2020 07:24:11 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 76
+[23-Oct-2020 13:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_menu() in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php:20
+Stack trace:
+#0 /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/tech-camp/Local Sites/testsite/app/public/wp-blog-header.php(19): require_once('/Users/tech-cam...')
+#2 /Users/tech-camp/Local Sites/testsite/app/public/index.php(17): require('/Users/tech-cam...')
+#3 {main}
+  thrown in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/themes/test/index.php on line 20
+[23-Oct-2020 14:24:20 UTC] PHP Warning:  include(offers.php): failed to open stream: No such file or directory in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/plugins/page-animations-and-transitions/option-settings.php on line 318
+[23-Oct-2020 14:24:20 UTC] PHP Stack trace:
+[23-Oct-2020 14:24:20 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/wp-admin/admin.php:0
+[23-Oct-2020 14:24:20 UTC] PHP   2. do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-admin/admin.php:259
+[23-Oct-2020 14:24:20 UTC] PHP   3. WP_Hook->do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/plugin.php:478
+[23-Oct-2020 14:24:20 UTC] PHP   4. WP_Hook->apply_filters() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:311
+[23-Oct-2020 14:24:20 UTC] PHP   5. display_page_anim_setting_page() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:287
+[23-Oct-2020 14:24:20 UTC] PHP   6. require_once() /Users/tech-camp/Local Sites/testsite/app/public/wp-content/plugins/page-animations-and-transitions/page-animations-and-transitions.php:92
+[23-Oct-2020 14:24:20 UTC] PHP Warning:  include(): Failed opening 'offers.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tech-camp/Local Sites/testsite/app/public/wp-content/plugins/page-animations-and-transitions/option-settings.php on line 318
+[23-Oct-2020 14:24:20 UTC] PHP Stack trace:
+[23-Oct-2020 14:24:20 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/wp-admin/admin.php:0
+[23-Oct-2020 14:24:20 UTC] PHP   2. do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-admin/admin.php:259
+[23-Oct-2020 14:24:20 UTC] PHP   3. WP_Hook->do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/plugin.php:478
+[23-Oct-2020 14:24:20 UTC] PHP   4. WP_Hook->apply_filters() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:311
+[23-Oct-2020 14:24:20 UTC] PHP   5. display_page_anim_setting_page() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:287
+[23-Oct-2020 14:24:20 UTC] PHP   6. require_once() /Users/tech-camp/Local Sites/testsite/app/public/wp-content/plugins/page-animations-and-transitions/page-animations-and-transitions.php:92
+[23-Oct-2020 22:55:47 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/update.php on line 168
+[23-Oct-2020 22:55:47 UTC] PHP Stack trace:
+[23-Oct-2020 22:55:47 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:0
+[23-Oct-2020 22:55:47 UTC] PHP   2. do_action_ref_array() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:138
+[23-Oct-2020 22:55:47 UTC] PHP   3. WP_Hook->do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/plugin.php:544
+[23-Oct-2020 22:55:47 UTC] PHP   4. WP_Hook->apply_filters() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:311
+[23-Oct-2020 22:55:47 UTC] PHP   5. wp_version_check() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:287
+[23-Oct-2020 22:55:47 UTC] PHP   6. trigger_error() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/update.php:168
+[23-Oct-2020 22:55:48 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/update.php on line 403
+[23-Oct-2020 22:55:48 UTC] PHP Stack trace:
+[23-Oct-2020 22:55:48 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:0
+[23-Oct-2020 22:55:48 UTC] PHP   2. do_action_ref_array() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:138
+[23-Oct-2020 22:55:48 UTC] PHP   3. WP_Hook->do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/plugin.php:544
+[23-Oct-2020 22:55:48 UTC] PHP   4. WP_Hook->apply_filters() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:311
+[23-Oct-2020 22:55:48 UTC] PHP   5. wp_update_plugins() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:287
+[23-Oct-2020 22:55:48 UTC] PHP   6. trigger_error() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/update.php:403
+[23-Oct-2020 22:55:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/update.php on line 414
+[23-Oct-2020 22:55:49 UTC] PHP Stack trace:
+[23-Oct-2020 22:55:49 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:0
+[23-Oct-2020 22:55:49 UTC] PHP   2. do_action_ref_array() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:138
+[23-Oct-2020 22:55:49 UTC] PHP   3. WP_Hook->do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/plugin.php:544
+[23-Oct-2020 22:55:49 UTC] PHP   4. WP_Hook->apply_filters() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:311
+[23-Oct-2020 22:55:49 UTC] PHP   5. wp_update_plugins() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:287
+[23-Oct-2020 22:55:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/update.php on line 428
+[23-Oct-2020 22:55:49 UTC] PHP Stack trace:
+[23-Oct-2020 22:55:49 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:0
+[23-Oct-2020 22:55:49 UTC] PHP   2. do_action_ref_array() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:138
+[23-Oct-2020 22:55:49 UTC] PHP   3. WP_Hook->do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/plugin.php:544
+[23-Oct-2020 22:55:49 UTC] PHP   4. WP_Hook->apply_filters() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:311
+[23-Oct-2020 22:55:49 UTC] PHP   5. wp_update_plugins() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:287
+[23-Oct-2020 22:55:49 UTC] PHP Warning:  予期しないエラーが発生しました。WordPress.org かこのサーバーの設定に何か問題があるかもしれません。問題が続くようであれば、<a href="https://ja.wordpress.org/support/forums/">サポートフォーラム</a>を参照してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/update.php on line 607
+[23-Oct-2020 22:55:49 UTC] PHP Stack trace:
+[23-Oct-2020 22:55:49 UTC] PHP   1. {main}() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:0
+[23-Oct-2020 22:55:49 UTC] PHP   2. do_action_ref_array() /Users/tech-camp/Local Sites/testsite/app/public/wp-cron.php:138
+[23-Oct-2020 22:55:49 UTC] PHP   3. WP_Hook->do_action() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/plugin.php:544
+[23-Oct-2020 22:55:49 UTC] PHP   4. WP_Hook->apply_filters() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:311
+[23-Oct-2020 22:55:49 UTC] PHP   5. wp_update_themes() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/class-wp-hook.php:287
+[23-Oct-2020 22:55:49 UTC] PHP   6. trigger_error() /Users/tech-camp/Local Sites/testsite/app/public/wp-includes/update.php:607
